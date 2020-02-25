@@ -1,7 +1,5 @@
 # DoPE_Public
 
-## Abstract
-
 ### Background
 parkrun has been successful in encouraging people in England to participate in their weekly 5km running and walking events. However, there is substantial heterogeneity in parkrun participation across different communities in England: after controlling for travel distances, deprived communities have significantly lower participation rates.
 
