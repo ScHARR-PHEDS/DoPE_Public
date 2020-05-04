@@ -20,7 +20,7 @@ An opportunity exists for parkrun to engage with these communities and reduce po
 This project is licensed under the terms of the MIT license.
 
 ### Cool Plot
-![PLOT 1](https://github.com/ScHARR-PHEDS/DoPE_Public/output/colour_plot.png)
+![PLOT 1](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/output/colour_plot.png)
 
 ### Data Sources
 The sources of data are listed below:
