@@ -1,6 +1,6 @@
 # DoPE_Public
 
-This work has been published [here](https://wellcomeopenresearch.org/articles/5-9).
+This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9).
 
 Please cite this work as:
 
@@ -18,6 +18,9 @@ We find that areas with higher ethnic density have lower participation rates. Th
 ### Conclusions
 An opportunity exists for parkrun to engage with these communities and reduce potential barriers to participation.
 This project is licensed under the terms of the MIT license.
+
+### Cool Plot
+![PLOT 1](https://github.com/ScHARR-PHEDS/DoPE_Public/output/colour_plot.png)
 
 ### Data Sources
 The sources of data are listed below:
