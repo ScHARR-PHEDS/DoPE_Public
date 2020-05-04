@@ -1,5 +1,11 @@
 # DoPE_Public
 
+This work has been published [here](https://wellcomeopenresearch.org/articles/5-9).
+
+Please cite this work as:
+
+Smith R, Schneider P, Bullas A et al. Does ethnic density influence community participation in mass participation physical activity events? The case of parkrun in England [version 1; peer review: 2 approved, 1 approved with reservations]. Wellcome Open Res 2020, 5:9 (https://doi.org/10.12688/wellcomeopenres.15657.1)
+
 ### Background
 parkrun has been successful in encouraging people in England to participate in their weekly 5km running and walking events. However, there is substantial heterogeneity in parkrun participation across different communities in England: after controlling for travel distances, deprived communities have significantly lower participation rates.
 
