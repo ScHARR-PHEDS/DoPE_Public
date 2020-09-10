@@ -1,5 +1,12 @@
 # DoPE_Public
 
+[![GitHub release](https://img.shields.io/badge/R-HEDS-green)](https://img.shields.io/badge/R-hello-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/RobertASmith/healthecon_shiny?color=red&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/RobertASmith/healthecon_shiny?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/RobertASmith/healthecon_shiny?style=plastic)
+[![GitHub forks](https://img.shields.io/github/forks/RobertASmith/healthecon_shiny?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/RobertASmith/shiny_healthy_economics/network/)
+
 This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9).
 
 Please cite this work as:
