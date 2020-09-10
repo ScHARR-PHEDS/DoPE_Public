@@ -6,6 +6,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/ScHARR-PHEDS/DoPE_Public?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ScHARR-PHEDS/DoPE_Public?style=plastic)
 [![GitHub forks](https://img.shields.io/github/forks/ScHARR-PHEDS/DoPE_Public?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/RobertASmith/shiny_healthy_economics/network/)
+<br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3596841.svg)](https://doi.org/10.5281/zenodo.3596841)
+
 
 This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9).
 
