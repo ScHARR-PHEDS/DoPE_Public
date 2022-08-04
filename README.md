@@ -29,6 +29,9 @@ We find that areas with higher ethnic density have lower participation rates. Th
 An opportunity exists for parkrun to engage with these communities and reduce potential barriers to participation.
 This project is licensed under the terms of the MIT license.
 
+### Replicating this analysis
+For those attempting to replicate this analysis: if you are running R >= 4.2.0, you'll encounter an error when running the script src2_analysis.R on line 31 when using the stargazer() function. According to [this person on reddit](https://www.reddit.com/r/rstats/comments/ucmtdn/comment/iamt5an/?utm_source=share&utm_medium=web2x&context=3), the error happens because "in R >= 4.2.0 is.na() returns an error and stops the code if x has more than one elements, [whereas] in previous versions of R, this only returned a warning". They have written a work-around - which you can find [here](https://gist.github.com/alexeyknorre/b0780836f4cec04d41a863a683f91b53) - and if you run this code before running src2_analysis.R then the problem should be solved. 
+
 ### Cool Plot
 ![PLOT 1](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/output/colour_plot.png)
 
