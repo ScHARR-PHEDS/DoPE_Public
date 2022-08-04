@@ -9,7 +9,6 @@
 <br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3596841.svg)](https://doi.org/10.5281/zenodo.3596841)
 
-
 This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9).
 
 Please cite this work as:
@@ -33,6 +32,9 @@ This project is licensed under the terms of the MIT license.
 ![PLOT 1](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/output/colour_plot.png)
 
 ### Data Sources
+
+Alan Brennan comment: I just wanted to practice making a suggested change to this brilliant and clear readme as if this was an actual suggested change in text - what i would recommend would be having the data sources in a more logical sequence for the reader.  i'd presumed you would say - they key data source is parkrun data which has the key variable ...  And then In addition to this we obtained data on blah - using source blah, and then data on blah2 using source blah2.  This way someone new to the paper and seeing the readme for the first time can follow and get a grip of the method. Fantastic work.
+
 The sources of data are listed below:
 
 Parkrun event info: Parkrun UK. 2018. http://www.parkrun.org.uk/
