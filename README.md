@@ -9,7 +9,7 @@
 <br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3596841.svg)](https://doi.org/10.5281/zenodo.3596841)
 
-This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9).
+This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9). And has been replicated extensively at several ReproHacks, including at [ReproHack Matlock](https://www.reprohack.org/paper/79/).
 
 **Summary of Code**
 
