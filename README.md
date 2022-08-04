@@ -9,8 +9,23 @@
 <br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3596841.svg)](https://doi.org/10.5281/zenodo.3596841)
 
-
 This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9).
+
+**Summary of Code**
+
+There are two R scripts used in running this analysis
+
+Script1 is: 
+
+[`R/src1_data_proc.R`](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/R/src1_data_proc.R)  
+Purpose: To clean data ready for analysis  
+Outputs: a single .csv file.
+
+Next the user runs script2 which is: 
+
+[`R/src2_analysis.R`](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/R/src2_analysis.R)  
+Purpose: Undertake statistical analysis     
+Outputs: Regression tables and visuals
 
 Please cite this work as:
 
