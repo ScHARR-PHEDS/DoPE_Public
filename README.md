@@ -9,8 +9,9 @@
 <br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3596841.svg)](https://doi.org/10.5281/zenodo.3596841)
 
-
 This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9).
+
+Please run the files in the `R` folder in order to generate the paper outputs.
 
 Please cite this work as:
 
