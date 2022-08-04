@@ -11,7 +11,18 @@
 
 This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9).
 
-Please run the files in the `R` folder in order to generate the paper outputs.
+**Summary of Code**
+
+There are two R scripts used in running this analysis
+
+Script1 is: [`R/src1_data_proc.R`](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/R/src1_data_proc.R)
+Purpose: To clean data ready for analysis
+Outputs: a single .csv file.
+
+next the user runs
+Script2 which is: [`R/src2_analysis.R`](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/R/src2_analysis.R)
+Purpose: Undertake statistical analysis 
+Outputs: Regression tables and visuals
 
 Please cite this work as:
 
