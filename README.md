@@ -11,22 +11,6 @@
 
 This work has been published in [Wellcome Open Research](https://wellcomeopenresearch.org/articles/5-9). And has been replicated extensively at several ReproHacks, including at [ReproHack Matlock](https://www.reprohack.org/paper/79/).
 
-**Summary of Code**
-
-There are two R scripts used in running this analysis
-
-Script1 is: 
-
-[`R/src1_data_proc.R`](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/R/src1_data_proc.R)  
-Purpose: To clean data ready for analysis  
-Outputs: a single .csv file.
-
-Next the user runs script2 which is: 
-
-[`R/src2_analysis.R`](https://github.com/ScHARR-PHEDS/DoPE_Public/blob/master/R/src2_analysis.R)  
-Purpose: Undertake statistical analysis     
-Outputs: Regression tables and visuals
-
 Please cite this work as:
 
 Smith R, Schneider P, Bullas A et al. Does ethnic density influence community participation in mass participation physical activity events? The case of parkrun in England [version 1; peer review: 2 approved, 1 approved with reservations]. Wellcome Open Res 2020, 5:9 (https://doi.org/10.12688/wellcomeopenres.15657.1)
@@ -43,7 +27,11 @@ Smith R, Schneider P, Bullas A et al. Does ethnic density influence community pa
 
 1. Source:
    1. `R\src1_data_proc.R`
+   Purpose: To clean data ready for analysis 
+   Outputs: a single .csv file.
    2. `R\src2_analysis.R`
+   Purpose: Undertake statistical analysis     
+   Outputs: Regression tables and visuals
 
 Two files in `output/` will be updated. 
 
