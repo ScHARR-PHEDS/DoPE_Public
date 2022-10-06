@@ -12,10 +12,10 @@ library(dplyr)
 library(raster)
 library(rgdal)
 
-# LSOA centroids
-lsoa_cntrds <- raster::shapefile("./raw_data/England_lsoa_2011_centroids/england_lsoa_2011_centroids")
-lsoa_cntrds <- spTransform(lsoa_cntrds,CRS("+proj=longlat"))
-lsoa_cntrds <- data.frame(code = lsoa_cntrds$code, coordinates(lsoa_cntrds),stringsAsFactors = F)
+# LSOA centroids - what the next 3 lines do is commented in more detail below.  An LSOA is a geographical description of areas "lower super output area" in England - there are around n,000 of these, with on average 1500 people.  This in the end produces a dataframe   
+lsoa_cntrds <- raster::shapefile("./raw_data/England_lsoa_2011_centroids/england_lsoa_2011_centroids")  #it would be useful to clarify which file this works on - i presume it is the DBF file - i have never heard of that file format so perhaps tell the reader what that is.  Even the help(raster) doesnt explain to me what raster does
+lsoa_cntrds <- spTransform(lsoa_cntrds,CRS("+proj=longlat")) # i did an R help search on spTransform - and couldnt see what it did at all.  
+lsoa_cntrds <- data.frame(code = lsoa_cntrds$code, coordinates(lsoa_cntrds),stringsAsFactors = F) # so i think this is obvious to someone who reads basic R - I think it is saying, it generates a matrix with 3 columns - column1 is "code", column2 is "coordinates",  column3 is "F";  and there is a row in the matrix for each LSOA
 
 # English parkrun event locations 2018
 parkrun_events = read.csv("./raw_data/parkrun_data/event_info_scraped_10.12.18.csv", stringsAsFactors = F)[,-1]
